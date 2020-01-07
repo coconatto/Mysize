@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Mysize</string>
+    <string name="HintOfNeck">首回り</string>
+    <string name="HintOfWast">胴回り</string>
+    <string name="HintOfSleeve">桁丈</string>
+    <string name="HintOfInseam">股下</string>
+    <string name="SaveButton">保存</string>
 </resources>
