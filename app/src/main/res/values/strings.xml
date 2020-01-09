@@ -5,4 +5,6 @@
     <string name="HintOfSleeve">桁丈</string>
     <string name="HintOfInseam">股下</string>
     <string name="SaveButton">保存</string>
+    <string name="HeightText">身長</string>
+    <string name="ValueOfHeight">170</string>
 </resources>
